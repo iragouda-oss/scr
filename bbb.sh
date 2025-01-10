@@ -9,3 +9,4 @@ if [ $a -gt $b ]; then
 else 
 echo "b is greater than a"
 fi
+hello
